@@ -6,7 +6,7 @@ Główny kod
 <script type="module" src="/cc/js/cookieconsent-config.js" defer></script>
 
 Styl Banera główny
-<code><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v3.0.0/dist/cookieconsent.css"></code>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v3.0.0/dist/cookieconsent.css">
 
 Styl banera do edycji
 <link rel="stylesheet" href="/cc/style.css">
