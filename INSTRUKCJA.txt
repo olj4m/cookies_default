@@ -1,0 +1,35 @@
+---------------------
+INFORMACJA
+---------------------
+Consent Baner v2 na bazie: orestbida/cookieconsent
+
+---------------------
+INSTRUKCJA WDROŻENIA
+---------------------
+
+Kod do header:
+
+Główny skrypt (informacje o ciasteczkach + tłumaczenie)
+<script type="module" src="/cc/js/cookieconsent-config.js" defer></script>
+
+Styl banera (niedytowalny)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v3.0.0/dist/cookieconsent.css">
+
+Styl banera (do edycji)
+<link rel="stylesheet" href="/cc/style.css">
+
+Szablon GTM w repo.
+
+---------------------
+PRZYDATNE LINKI
+---------------------
+https://cookieconsent.orestbida.com/reference/configuration-reference.html - do edycji głównego skryptu
+https://termly.io/products/cookie-scanner/ - do wyszukiwania ciastek na stronie
+https://cookiedatabase.org/ - baza ciastek
+https://cookiesearch.org/ - - baza ciastek
+https://github.com/jkwakman/Open-Cookie-Database/blob/master/open-cookie-database.csv - - baza ciastek
+
+---------------------
+ŚCIĄGA
+---------------------
+https://github.com/reklamasieciowa/cc-cookies

@@ -31,6 +31,7 @@ body {
 	background-color: var(--cc-btn-primary-bg);
 	border: 2px solid var(--cc-btn-primary-border-color);
 	transition: background-color .15s ease,border-color .15s ease,color .15s ease;
+	z-index: 99999;
 }
 
 #show-preferencesModal:hover {
